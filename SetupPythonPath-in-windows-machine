@@ -1,0 +1,6 @@
+#as per your installation and version of python change directories in below address
+
+PYTHONPATH
+C:\Python-3.6.4;C:\Python-3.6.4\Include;C:\Python-3.6.4\Lib;C:\Python-3.6.4\Lib\lib2to3;C:\Python-3.6.4\Lib\site-packages;
+PATH
+C:\Python-3.6.4;C:\Python-3.6.4\Include;C:\Python-3.6.4\Lib;C:\Python-3.6.4\Lib\lib2to3;C:\Python-3.6.4\Lib\site-packages;
